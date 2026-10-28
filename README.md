@@ -23,6 +23,10 @@ Most phones should use **LinkGrabinator-arm64.apk** (smaller). If it won't insta
 2. Open it. If asked, allow your browser or file manager to "install unknown apps".
 3. Tap **Install**.
 
+## Problems or ideas?
+
+Found a bug or have a suggestion? [Report it here](https://github.com/imzzjadoo/link-grabinator/issues/new). Include your phone model and the link that didn't work.
+
 ## Support
 
 Created by **Imran Mirza** · [TikTok @imi_tations](https://www.tiktok.com/@imi_tations)
